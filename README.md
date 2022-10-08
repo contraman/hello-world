@@ -1,6 +1,6 @@
 # hello-world
 
-my first github repo
+my first github repo!!
 
 ## my plan to become self employed
 
